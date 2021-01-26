@@ -1,13 +1,13 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Hello"
+date:   2021-01-26 16:52:58 +0530
+# categories: jekyll update
 ---
+
 
 # Hello
 
 I read books. And have opinons about them. Sometimes those are pages long, sometimes not even a sentence.
 
 Synapsses will bring those musings here. Along with a few tangential things.
-
-[Instagram](https://www.instagram.com/synapsses/)
