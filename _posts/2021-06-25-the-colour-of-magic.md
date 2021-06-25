@@ -8,7 +8,7 @@ date:   2021-06-25 16:52:58 +0530
 
 # The Colour Of Magic by Terry Pratchett: 
 
-## 3/5 stars
+## 3/5 Stars
 
 
 - [About](#about)
