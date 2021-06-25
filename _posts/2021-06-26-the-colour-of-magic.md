@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Colour Of Magic"
-date:   2021-06-25 16:52:58 +0530
+date:   2021-06-26
 # categories: jekyll update
 # author: ""
 ---
